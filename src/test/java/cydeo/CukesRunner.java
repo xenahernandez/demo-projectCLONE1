@@ -14,4 +14,5 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         publish = true
 )
+//install mvn for runners to work
 public class CukesRunner {}
